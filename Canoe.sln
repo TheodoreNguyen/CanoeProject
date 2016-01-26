@@ -1,0 +1,24 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2008
+
+Project("{8D3241D6-7B2C-F456-3E64-988DE44A1A09}") = "Canoe", "Assembly-CSharp-firstpass.csproj", "{94024C27-328B-E35B-CBDE-1E27E0FCF178}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{94024C27-328B-E35B-CBDE-1E27E0FCF178}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{94024C27-328B-E35B-CBDE-1E27E0FCF178}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{94024C27-328B-E35B-CBDE-1E27E0FCF178}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{94024C27-328B-E35B-CBDE-1E27E0FCF178}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+												GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+
+EndGlobal
